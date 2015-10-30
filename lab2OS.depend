@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1446246177 source:/home/mohamed/sketchbook/lab2OS/main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<error.h>
+	<sys/time.h>
+	<string.h>
+
